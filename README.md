@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @Air-Boigus
-- 👀 I’m interested in: Yo Mama, Java, C++, Graphics Programming, Systems Programming
-- 🌱 I’m currently learning: Computer Architecture, OpenGL
-- 💞️ I’m looking to collaborate on: Nothing in Particular
-- 📫 How to reach me: airboigus@gmail.com OR https://air-boigus.itch.io/ OR Here on Github
+# Whats up!
+
+I like systems programming and really low level stuff! It's fun to get to know your computer.
+
+Right Now I'm working on making my own operating system, which has been really dope.
+
+#### Languages I'm comfortable with:
+* Java
+* C/C++
+* x86 Assembly
