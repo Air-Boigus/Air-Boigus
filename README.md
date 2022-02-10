@@ -1,10 +1,2 @@
-# Whats up!
-
-I like systems programming and really low level stuff! It's fun to get to know your computer.
-
-Right Now I'm working on making my own operating system, which has been pretty dope.
-
-#### Languages I'm comfortable with:
-* Java
-* C/C++
-* x86 Assembly
+# welcome
+Thanks for checking out my Github! You'll find some repos for a bunch of miscmiscellaneous projects I'm working on. Most of them aren't regularly maintained, though, and my older repos and pretty messy.
